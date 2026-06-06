@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     description:
       "Makanan bernutrisi, siap santap, langsung diantar ke kamu.",
     type: "website",
-    images: [{ url: "/images/hero-image.png", width: 1200, height: 630, alt: "HealthyFooDs" }],
+    images: [{ url: "/images/hero-image.webp", width: 1200, height: 630, alt: "HealthyFooDs" }],
   },
 };
 

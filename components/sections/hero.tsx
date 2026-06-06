@@ -68,7 +68,7 @@ export default function HeroSection() {
           <div className="absolute -top-12 -right-12 w-64 h-64 bg-secondary-container/30 rounded-full blur-3xl -z-10" />
           <div className="relative rounded-2xl overflow-hidden shadow-2xl aspect-[4/3]">
             <Image
-              src="/images/hero-image.png"
+              src="/images/hero-image.webp"
               alt="Makanan sehat HealthyFooDs dalam kemasan siap santap"
               fill
               className="object-cover"

@@ -7,7 +7,7 @@ export default function SolutionSection() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="relative rounded-2xl overflow-hidden shadow-xl aspect-[4/3]">
             <Image
-              src="/images/supporting-image.png"
+              src="/images/supporting-image.webp"
               alt="Makanan sehat HealthyFooDs yang siap santap"
               fill
               className="object-cover"

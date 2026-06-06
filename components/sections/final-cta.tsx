@@ -36,7 +36,7 @@ export default function FinalCTASection() {
         </div>
         <div className="flex-1 min-h-[300px] relative">
           <Image
-            src="/images/cta-image.png"
+            src="/images/cta-image.webp"
             alt="Makanan sehat HealthyFooDs"
             fill
             className="object-cover"
